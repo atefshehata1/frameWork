@@ -1,0 +1,11 @@
+.H100 { 
+   height: 87vh;
+   background: linear-gradient(135deg, #232526 0%, #414345 100%);
+   color: #fff;
+}
+
+.divider .line {
+    width: 80px;
+    height: 4px;
+    background-color: #fff;
+}

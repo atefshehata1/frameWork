@@ -1,0 +1,18 @@
+.bgBlack{
+    background: linear-gradient(135deg, #232526 0%, #414345 100%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08);
+}
+.nav-link , .navbar-brand , .navbar-nav .nav-link.active, .navbar-nav .nav-link.show  {
+    color: #fff;
+    font-weight: 500;
+}
+.hovering {
+    transition: 0.5s;
+}
+.hovering:hover, .hovering:focus {
+  background-color: #fff;
+  padding: 8px 22px;
+  color: #232526 !important;
+  border-radius: 5px;
+  transform: scale(1.1);
+}

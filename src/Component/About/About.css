@@ -1,0 +1,16 @@
+
+.about-section {
+  background: linear-gradient(135deg, #232526 0%, #414345 100%);
+  color: #fff;
+  height: 100vh;
+}
+
+.about-section, .about-section * {
+  color: #fff !important;
+}
+
+.divider .line {
+  width: 80px;
+  height: 4px;
+  background-color: #fff;
+}
